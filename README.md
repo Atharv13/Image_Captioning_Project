@@ -11,7 +11,8 @@ improvements) check out final_report.pdf
 
 The directory structure is :
 -->drive 
-        test-->                    ...(Google Drive)
+
+	test-->                    ...(Google Drive)
        image.jpg                 ...(contains 3 smaple images)
        image1.jpg
        image2.jpg
@@ -20,6 +21,7 @@ The directory structure is :
 	:                            use resources.)
 	:
         model_19.h5
+	
 	model30_0.h5
    images.zip
    iamges_30k.zip
