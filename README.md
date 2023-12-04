@@ -37,13 +37,8 @@ For a detailed analysis of the project, including model comparisons, accuracy me
 ```
 
 
-## Info
-
-### Datasets Used
-- Flickr8k
-- Flickr30k
-
-### Process Overview
+## Info and Process Overview
+0. Two Dataset were used Flickr8k and Flcikr30k
 1. Feature extraction is performed only once, and the features file is dumped using the `pickle` library for efficiency.
 2. VGG16 model is utilized for image processing.
 3. Captions are cleaned, and the caption files are split into training and testing datasets according to a given ratio.
