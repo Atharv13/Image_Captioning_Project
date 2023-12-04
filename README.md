@@ -11,8 +11,7 @@ improvements) check out final_report.pdf
 
 The directory structure is :
 -->drive 
-                    
-    test-->                    ...(Google Drive)
+        test-->                    ...(Google Drive)
        image.jpg                 ...(contains 3 smaple images)
        image1.jpg
        image2.jpg
@@ -21,7 +20,6 @@ The directory structure is :
 	:                            use resources.)
 	:
         model_19.h5
-	
 	model30_0.h5
    images.zip
    iamges_30k.zip
@@ -33,14 +31,14 @@ The directory structure is :
    Flickr_30k.testImages.txt
 
 -->Flicker8k
-     \nimagexxx.jpg
-     \n:
-     \n:
+     imagexxx.jpg
+     :
+     :
 
 -->Flicker30k
-     \nimagexxx.jpg
-     \n:
-     \n:
+     imagexxx.jpg
+     :
+     :
 -->features.pkl
 -->features_30k.pkl
 
