@@ -15,30 +15,26 @@ For a detailed analysis of the project, including model comparisons, accuracy me
 |   |   |-- image.jpg
 |   |   |-- image1.jpg
 |   |   |-- image2.jpg
-|-- models
-|   |-- model_0.h5
-|   |-- ...
-|   |-- model_19.h5
-|   |-- model30_0.h5
-|-- images.zip
-|-- images_30k.zip
-|-- captions.txt
-|-- captions_30k.txt
+|   |-- models
+|   |   |-- model_0.h5
+|   |   |-- ...
+|   |   |-- model_19.h5
+|   |   |-- model30_0.h5
+|   |-- images.zip
+|   |-- images_30k.zip
+|   |-- captions.txt
+|   |-- captions_30k.txt
+|   |-- testImages.txt
+|   |-- trainImages.txt
 |-- Flickr_8k
-|   |-- testImages.txt
-|   |-- trainImages.txt
+|   | ..
+|   | ..
 |-- Flickr_30k
-|   |-- testImages.txt
-|   |-- trainImages.txt
-|-- Flicker8k
-|   |-- imagexxx.jpg
-|   |-- ...
-|-- Flicker30k
-|   |-- imagexxx.jpg
-|   |-- ...
+|   | ...
+|   | ..
 |-- features.pkl
 |-- features_30k.pkl
-
+```
 
 
 ## Info
