@@ -12,7 +12,7 @@ improvements) check out final_report.pdf
 The directory structure is :
 -->drive 
                     
-   test-->                       ...(Google Drive)
+   \n test-->                       ...(Google Drive)
        image.jpg                 ...(contains 3 smaple images)
        image1.jpg
        image2.jpg
